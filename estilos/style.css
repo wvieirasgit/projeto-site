@@ -8,6 +8,9 @@ boby{
     background-color: rgb(73, 73, 153);
 }
 
+img.lado{
+    float: right;
+}
 
 main {
 
